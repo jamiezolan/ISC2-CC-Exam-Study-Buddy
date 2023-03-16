@@ -17,6 +17,8 @@ This prompt is designed to work specifically with the GPT-4 language model. To u
 
 Please note that the performance and behavior of the AI model may vary depending on the service, application, and any additional parameters or configurations used.
 
+Feel free to *try* it on GPT-3.5, but there may be unexpected results and behaviors.
+
 ## License
 
 ISC2-CC-Exam-Study-Buddy is released under the CC0 1.0 Universal (CC0 1.0) License.
