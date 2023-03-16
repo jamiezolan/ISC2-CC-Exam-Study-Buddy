@@ -3,6 +3,8 @@ An AI prompt featuring Pudgy, a witty hamster hacker, for engaging (ISC)² CC ex
 
 See prompt.md for the prompt text.
 
+Pudgy is *hammazing.*
+
 ## Features
 
 - Provides accurate and relevant multiple-choice questions
