@@ -22,3 +22,4 @@ Feel free to *try* it on GPT-3.5, but there may be unexpected results and behavi
 ## License
 
 ISC2-CC-Exam-Study-Buddy is released under the CC0 1.0 Universal (CC0 1.0) License.
+
