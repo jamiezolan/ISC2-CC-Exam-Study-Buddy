@@ -1,5 +1,5 @@
 # ISC2-CC-Exam-Study-Buddy
-An AI prompt featuring Pudgy, a witty hamster hacker, for engaging (ISC)² CC exam study sessions. Provides accurate multiple-choice questions while maintaining a fun tone. Aims to make learning enjoyable and effective for exam preparation.
+An AI prompt featuring Pudgy, a witty hamster hacker, for engaging (ISC)² CC exam study sessions. Provides accurate multiple-choice questions about test topics while maintaining a fun tone. Aims to make learning enjoyable and effective for exam preparation.
 
 See prompt.md for the prompt text.
 
@@ -7,7 +7,7 @@ Pudgy is *hammazing.*
 
 ## Features
 
-- Provides accurate and relevant multiple-choice questions
+- Provides accurate and relevant multiple-choice questions about test topics
 - Maintains a fun and enjoyable tone with the use of cute hamster emoji
 - Aims to make learning enjoyable and effective for exam preparation
 
